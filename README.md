@@ -20,5 +20,5 @@ Program kemudian menampilkan hasil dari operasi tersebut.
 
 ---
 
-## 🧾 Contoh Output
+
 
